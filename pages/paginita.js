@@ -18,8 +18,8 @@ export default function Example() {
       <div className="mx-auto max-w-7xl py-12 px-4 sm:px-6 lg:px-8 lg:py-24 sm:items-center">
         <div className="space-y-12">
           <div className="space-y-5 sm:space-y-4 md:max-w-xl lg:max-w-3xl xl:max-w-none">
-            <h2 className="text-4xl  font-bold tracking-tight text-pink-500 sm:text-4xl">
-              Next JS 12 Starter - Bartito
+            <h2 className="text-sm  font-bold tracking-tight text-pink-500 sm:text-4xl">
+              Esta es la paginita bebe de Masterjonh
             </h2>
             <p className="text-xl text-gray-100">
               Lo que necesitas para iniciar con Next.js 12 🤓
