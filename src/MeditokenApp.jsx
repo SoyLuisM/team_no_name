@@ -1,7 +1,7 @@
 export const MeditokenApp = ()=>{
     return (
         <>
-            <nav class="navbar navbar-expand-lg " data-bs-theme="blue">
+            <nav class="navbar navbar-expand-lg bg-dark" >
                 <img src="/icono.png" class="d-block img_prueba" alt="..." />
                 <div class="container-fluid ">
                 
@@ -12,7 +12,7 @@ export const MeditokenApp = ()=>{
                     <div class="collapse navbar-collapse " id="navbarSupportedContent">
                         <ul class="navbar-nav ms-auto mb-2 mb-lg-0 ">
                             <li class="nav-item">
-                            <a class="nav-link text-white" aria-current="page" href="#">Inicio</a>
+                            <a class="nav-link text-white " aria-current="page" href="#">Inicio</a>
                             </li>
                             <li class="nav-item">
                             <a class="nav-link text-white" aria-current="page" href="#">Conocenos</a>
